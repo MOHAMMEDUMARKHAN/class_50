@@ -1,0 +1,16 @@
+h1 {
+    color: brown;
+}
+
+* {
+    border: solid;
+}
+.header{background-color: rgb(159, 159, 219);
+display:flex;
+justify-content: space-between;
+}
+.grid{display:flex;
+justify-content:  space-evenly;
+flex-wrap: wrap;}
+.footer{display:flex;
+justify-content: flex-end;}
